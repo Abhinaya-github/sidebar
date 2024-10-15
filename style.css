@@ -1,0 +1,29 @@
+header{
+    width: 100%;
+    background-color:burlywood;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:fixed ;
+   
+}  
+.fix{
+    width: 4%;
+     height: 100%;
+    background-color: blanchedalmond;
+    padding-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    position: fixed;
+    margin-top: 1%;
+   
+
+}
+.div{
+    padding: 1%;
+    display: inline-block;
+    margin-left: 190px;
+    text-align: justify;
+   
+}
